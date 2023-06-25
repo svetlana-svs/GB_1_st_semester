@@ -1,0 +1,15 @@
+C:\Studenichnik Svetlana\My folder\Geek Brains\Study\final HW\GB_1_st_semester\bin\Debug\net6.0\GB_1_st_semester.exe
+C:\Studenichnik Svetlana\My folder\Geek Brains\Study\final HW\GB_1_st_semester\bin\Debug\net6.0\GB_1_st_semester.deps.json
+C:\Studenichnik Svetlana\My folder\Geek Brains\Study\final HW\GB_1_st_semester\bin\Debug\net6.0\GB_1_st_semester.runtimeconfig.json
+C:\Studenichnik Svetlana\My folder\Geek Brains\Study\final HW\GB_1_st_semester\bin\Debug\net6.0\GB_1_st_semester.dll
+C:\Studenichnik Svetlana\My folder\Geek Brains\Study\final HW\GB_1_st_semester\bin\Debug\net6.0\GB_1_st_semester.pdb
+C:\Studenichnik Svetlana\My folder\Geek Brains\Study\final HW\GB_1_st_semester\obj\Debug\net6.0\GB_1_st_semester.csproj.AssemblyReference.cache
+C:\Studenichnik Svetlana\My folder\Geek Brains\Study\final HW\GB_1_st_semester\obj\Debug\net6.0\GB_1_st_semester.GeneratedMSBuildEditorConfig.editorconfig
+C:\Studenichnik Svetlana\My folder\Geek Brains\Study\final HW\GB_1_st_semester\obj\Debug\net6.0\GB_1_st_semester.AssemblyInfoInputs.cache
+C:\Studenichnik Svetlana\My folder\Geek Brains\Study\final HW\GB_1_st_semester\obj\Debug\net6.0\GB_1_st_semester.AssemblyInfo.cs
+C:\Studenichnik Svetlana\My folder\Geek Brains\Study\final HW\GB_1_st_semester\obj\Debug\net6.0\GB_1_st_semester.csproj.CoreCompileInputs.cache
+C:\Studenichnik Svetlana\My folder\Geek Brains\Study\final HW\GB_1_st_semester\obj\Debug\net6.0\GB_1_st_semester.dll
+C:\Studenichnik Svetlana\My folder\Geek Brains\Study\final HW\GB_1_st_semester\obj\Debug\net6.0\refint\GB_1_st_semester.dll
+C:\Studenichnik Svetlana\My folder\Geek Brains\Study\final HW\GB_1_st_semester\obj\Debug\net6.0\GB_1_st_semester.pdb
+C:\Studenichnik Svetlana\My folder\Geek Brains\Study\final HW\GB_1_st_semester\obj\Debug\net6.0\GB_1_st_semester.genruntimeconfig.cache
+C:\Studenichnik Svetlana\My folder\Geek Brains\Study\final HW\GB_1_st_semester\obj\Debug\net6.0\ref\GB_1_st_semester.dll
